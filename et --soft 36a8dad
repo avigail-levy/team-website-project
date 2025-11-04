@@ -1,0 +1,21 @@
+[33mf372453[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add .gitignore
+[33mb9dfdac[m Add .gitignore
+[33m36a8dad[m[33m ([m[1;33mtag: v1.0.1[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/release/v1.0[m[33m, [m[1;31morigin/develop[m[33m)[m Prepare v1.0 release
+[33m2241f9c[m[33m ([m[1;31morigin/feature/login[m[33m)[m Add login page
+[33mf4b9682[m[33m ([m[1;31morigin/feature-footer[m[33m)[m Add footer
+[33m0be7f63[m Update styles
+[33mb365172[m Merge branch 'feature-services'
+[33m208166b[m[33m ([m[1;31morigin/feature-contact[m[33m)[m Add contact page
+[33mb299b2e[m[33m ([m[1;31morigin/feature-services[m[33m)[m Add services page 2
+[33m386ab79[m Add services page
+[33m62d7f71[m Resolve conflict
+[33m5e73a86[m Update title
+[33mc2e5cf9[m Change title
+[33m343ada6[m Add navigation to index.html
+[33m328b883[m Add about.html page
+[33ma6cffa2[m Update style.css
+[33m557a85d[m Add script.js
+[33m075e3d2[m Link style.css in index.html
+[33m1a44652[m Add style.css
+[33m9c53c78[m Add index.html
+[33m8a3e533[m Initial commit
