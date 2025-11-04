@@ -4,6 +4,7 @@ function greet() {
     const b = "world";
     const c = a + " " + b;
     const d = c.toUpperCase();
+    const e = d.split(" ");
 }
 
 console.log("Website loaded!");
