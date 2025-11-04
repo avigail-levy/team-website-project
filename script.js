@@ -5,6 +5,7 @@ function greet() {
     const c = a + " " + b;
     const d = c.toUpperCase();
     const e = d.split(" ");
+    const f = e.join("-");
 }
 
 console.log("Website loaded!");
