@@ -6,6 +6,7 @@ function greet() {
     const d = c.toUpperCase();
     const e = d.split(" ");
     const f = e.join("-");
+    console.log(f);
 }
 
 console.log("Website loaded!");
